@@ -1,0 +1,28 @@
+{
+  "dia" : {
+    "lunes" : {
+      "almuerzosComprados" : {
+        "1" : {
+          "detalles" : [ "fanta", "papas con carne", "lechuga", "flan" ],
+          "correoElectronico" : "fran"
+        },
+        "2" : {
+          "detalles" : [ "fanta", "papas con carne", "lechuga", "flan", "sopa de verduras", "pan" ],
+          "correoElectronico" : "fran"
+        }
+      }
+    },
+    "martes" : {
+      "almuerzosComprados" : { }
+    },
+    "miercoles" : {
+      "almuerzosComprados" : { }
+    },
+    "jueves" : {
+      "almuerzosComprados" : { }
+    },
+    "viernes" : {
+      "almuerzosComprados" : { }
+    }
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "dias": {
+    "lunes": {
+      "menus": {
+        "vegetariano": {
+          "precio": 2800,
+          "bebestibles": ["fanta", "sprite", "agua"],
+          "platoDeFondo": ["papas con tortilla de verduras"],
+          "ensalada": ["lechuga", "zanahoria"],
+          "postre": ["flan", "fruta"],
+          "sopa": ["sopa de verduras"],
+          "acompañamiento": ["pan"]
+        },
+        "economico": {
+          "precio": 1800,
+          "bebestibles": ["fanta", "sprite", "agua"],
+          "platoDeFondo": ["papas con carne"],
+          "postre": ["flan", "fruta"]
+        },
+        "ejecutivo": {
+          "precio": 3100,
+          "bebestibles": ["fanta", "sprite", "agua"],
+          "platoDeFondo": ["papas con carne", "cazuela"],
+          "ensalada": ["lechuga", "zanahoria"],
+          "postre": ["flan", "fruta"],
+          "sopa": ["sopa de verduras"],
+          "acompañamiento": ["pan"]
+        },
+        "baes": {
+          "precio": 1800,
+          "bebestibles": ["fanta", "sprite", "agua"],
+          "platoDeFondo": ["papas con carne", "cazuela"],
+          "ensalada": ["lechuga", "zanahoria"],
+          "postre": ["flan", "fruta"]
+        }
+      }
+    },
+    "martes": {
+      "menus": {
+        "vegetariano": {
+          "precio": 2800,
+          "bebestibles": ["jugo de naranja", "agua"],
+          "platoDeFondo": ["lentejas con arroz"],
+          "ensalada": ["espinaca", "remolacha"],
+          "postre": ["gelatina", "fruta"],
+          "sopa": ["sopa de tomate"],
+          "acompañamiento": ["pan integral"]
+        },
+        "economico": {
+          "precio": 1800,
+          "bebestibles": ["jugo de naranja", "agua"],
+          "platoDeFondo": ["pollo con papas"],
+          "postre": ["gelatina", "fruta"]
+        },
+        "ejecutivo": {
+          "precio": 3100,
+          "bebestibles": ["jugo de naranja", "agua"],
+          "platoDeFondo": ["pollo con papas", "pescado frito"],
+          "ensalada": ["espinaca", "remolacha"],
+          "postre": ["gelatina", "fruta"],
+          "sopa": ["sopa de tomate"],
+          "acompañamiento": ["pan integral"]
+        },
+        "baes": {
+          "precio": 1800,
+          "bebestibles": ["jugo de naranja", "agua"],
+          "platoDeFondo": ["pollo con papas", "pescado frito"],
+          "ensalada": ["espinaca", "remolacha"],
+          "postre": ["gelatina", "fruta"]
+        }
+      }
+    },
+    "miércoles": {
+      "menus": {
+        "vegetariano": {
+          "precio": 2800,
+          "bebestibles": ["jugo de manzana", "agua"],
+          "platoDeFondo": ["guiso de verduras"],
+          "ensalada": ["repollo", "zanahoria"],
+          "postre": ["yogur", "fruta"],
+          "sopa": ["sopa de espinaca"],
+          "acompañamiento": ["pan de centeno"]
+        },
+        "economico": {
+          "precio": 1800,
+          "bebestibles": ["jugo de manzana", "agua"],
+          "platoDeFondo": ["pastel de papas"],
+          "postre": ["yogur", "fruta"]
+        },
+        "ejecutivo": {
+          "precio": 3100,
+          "bebestibles": ["jugo de manzana", "agua"],
+          "platoDeFondo": ["pastel de papas", "lasagna"],
+          "ensalada": ["repollo", "zanahoria"],
+          "postre": ["yogur", "fruta"],
+          "sopa": ["sopa de espinaca"],
+          "acompañamiento": ["pan de centeno"]
+        },
+        "baes": {
+          "precio": 1800,
+          "bebestibles": ["jugo de manzana", "agua"],
+          "platoDeFondo": ["pastel de papas", "lasagna"],
+          "ensalada": ["repollo", "zanahoria"],
+          "postre": ["yogur", "fruta"]
+        }
+      }
+    },
+    "jueves": {
+      "menus": {
+        "vegetariano": {
+          "precio": 2800,
+          "bebestibles": ["jugo de piña", "agua"],
+          "platoDeFondo": ["risotto de champiñones"],
+          "ensalada": ["lechuga", "pepino"],
+          "postre": ["mousse de chocolate", "fruta"],
+          "sopa": ["sopa de champiñones"],
+          "acompañamiento": ["pan de avena"]
+        },
+        "economico": {
+          "precio": 1800,
+          "bebestibles": ["jugo de piña", "agua"],
+          "platoDeFondo": ["arroz con pollo"],
+          "postre": ["mousse de chocolate", "fruta"]
+        },
+        "ejecutivo": {
+          "precio": 3100,
+          "bebestibles": ["jugo de piña", "agua"],
+          "platoDeFondo": ["arroz con pollo", "pasta a la bolognesa"],
+          "ensalada": ["lechuga", "pepino"],
+          "postre": ["mousse de chocolate", "fruta"],
+          "sopa": ["sopa de champiñones"],
+          "acompañamiento": ["pan de avena"]
+        },
+        "baes": {
+          "precio": 1800,
+          "bebestibles": ["jugo de piña", "agua"],
+          "platoDeFondo": ["arroz con pollo", "pasta a la bolognesa"],
+          "ensalada": ["lechuga", "pepino"],
+          "postre": ["mousse de chocolate", "fruta"]
+        }
+      }
+    },
+    "viernes": {
+      "menus": {
+        "vegetariano": {
+          "precio": 2800,
+          "bebestibles": ["limonada", "agua"],
+          "platoDeFondo": ["quinoa con verduras"],
+          "ensalada": ["coleslaw", "rúcula"],
+          "postre": ["tarta de manzana", "fruta"],
+          "sopa": ["sopa de calabaza"],
+          "acompañamiento": ["pan sin gluten"]
+        },
+        "economico": {
+          "precio": 1800,
+          "bebestibles": ["limonada", "agua"],
+          "platoDeFondo": ["pastel de choclo"],
+          "postre": ["tarta de manzana", "fruta"]
+        },
+        "ejecutivo": {
+          "precio": 3100,
+          "bebestibles": ["limonada", "agua"],
+          "platoDeFondo": ["pastel de choclo", "paella"],
+          "ensalada": ["coleslaw", "rúcula"],
+          "postre": ["tarta de manzana", "fruta"],
+          "sopa": ["sopa de calabaza"],
+          "acompañamiento": ["pan sin gluten"]
+        },
+        "baes": {
+          "precio": 1800,
+          "bebestibles": ["limonada", "agua"],
+          "platoDeFondo": ["pastel de choclo", "paella"],
+          "ensalada": ["coleslaw", "rúcula"],
+          "postre": ["tarta de manzana", "fruta"]
+        }
+      }
+    }
+  }
+}
